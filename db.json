@@ -81,5 +81,100 @@
       "time":"17:33"
   }
 
+  ],
+
+  "posts2":[
+
+    {
+      "id":1,
+      "img":"Rectangle 615",
+      "catigori":"img"
+    },
+    {
+      "id":2,
+      "img":"Rectangle 616",
+      "catigori":"img"
+    },
+    {
+      "id":3,
+      "img":"Rectangle 617",
+      "catigori":"img"
+    },
+    {
+      "id":4,
+      "img":"Rectangle 618",
+      "catigori":"img"
+    },
+    {
+      "id":5,
+      "img":"Rectangle 619",
+      "catigori":"img"
+    },
+    {
+      "id":6,
+      "img":"Rectangle 620",
+      "catigori":"img"
+    },
+    {
+      "id":7,
+      "img":"Rectangle 621",
+      "catigori":"img"
+    },
+    {
+      "id":8,
+      "img":"Rectangle 622",
+      "catigori":"img"
+    },
+    {
+      "id":9,
+      "img":"Rectangle 623",
+      "catigori":"img"
+    },
+    {
+      "id":10,
+      "img":"Rectangle 624",
+      "catigori":"img"
+    },
+    {
+      "id":11,
+      "img":"Rectangle 625",
+      "catigori":"img"
+    },
+    {
+      "id":12,
+      "img":"Rectangle 626",
+      "catigori":"img"
+    },
+    {
+      "id":13,
+      "img":"Rectangle 627",
+      "catigori":"img"
+    },
+    {
+      "id":14,
+      "img":"Rectangle 628",
+      "catigori":"img"
+    },
+    {
+      "id":15,
+      "img":"Rectangle 624",
+      "catigori":"video"
+    },
+    {
+      "id":16,
+      "img":"Rectangle 624",
+      "catigori":"video"
+    },
+    {
+      "id":17,
+      "img":"Rectangle 624",
+      "catigori":"video"
+    },
+    {
+      "id":18,
+      "img":"Rectangle 624",
+      "catigori":"video"
+    }
+
   ]
 }
