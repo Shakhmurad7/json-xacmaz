@@ -227,6 +227,66 @@
         "img":"Rectangle 674"
     }
 
+  ],
+
+
+  "post4" : [
+
+    {
+      "id":1,
+      "item":"Lorem Ipsum is simply text",
+      "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Unknown printer a galley of  ...",
+      "price":"Razılaşma əsasında",
+      "next":"ətraflı",
+      "time":"08.07.2022",
+      "endtime":"bitmə vaxtı"
+    },
+    {
+      "id":2,
+      "item":"Lorem Ipsum is simply text",
+      "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Unknown printer a galley of  ...",
+      "price":"Razılaşma əsasında",
+      "next":"ətraflı",
+      "time":"08.07.2022",
+      "endtime":"bitmə vaxtı"
+    },
+    {
+      "id":3,
+      "item":"Lorem Ipsum is simply text",
+      "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Unknown printer a galley of  ...",
+      "price":"0.00 azn",
+      "next":"ətraflı",
+      "time":"08.07.2022",
+      "endtime":"bitmə vaxtı"
+    },
+    {
+      "id":4,
+      "item":"Lorem Ipsum is simply text",
+      "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Unknown printer a galley of  ...",
+      "price":"0.00 azn",
+      "next":"ətraflı",
+      "time":"08.07.2022",
+      "endtime":"bitmə vaxtı"
+    },
+    {
+      "id":5,
+      "item":"Lorem Ipsum is simply text",
+      "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Unknown printer a galley of  ...",
+      "price":"900 azn",
+      "next":"ətraflı",
+      "time":"08.07.2022",
+      "endtime":"bitmə vaxtı"
+    },
+    {
+      "id":6,
+      "item":"Lorem Ipsum is simply text",
+      "text":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Unknown printer a galley of  ...",
+      "price":"900 azn",
+      "next":"ətraflı",
+      "time":"08.07.2022",
+      "endtime":"bitmə vaxtı"
+    }
+
   ]
 
 }
